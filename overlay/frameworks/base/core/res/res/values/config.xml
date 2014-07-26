@@ -274,4 +274,7 @@
          The default is false. -->
     <bool name="config_lidControlsSleep">true</bool>
 
+    <!-- Enable WiFi display support -->
+    <bool name="config_enableWifiDisplay">true</bool>
+
 </resources>
